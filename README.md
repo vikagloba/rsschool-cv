@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+Viktoria Globa
+================
+My contact info:
+-----------------
+**Phone:** +375445146466
 
-You can use the [editor on GitHub](https://github.com/vikagloba/rsschool-cv/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+**E-mail:** sakkyni@rambler.ru
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Telegram:** @Vika_Globa
 
-### Markdown
+**GitHub:** Vika Globa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+About Me
+=============
+I am 25 yers old, by education I am a manager-economist. After graduating from the university, I worked as a manager for 3 years. As for hobbies, I like sport and cook.
 
-# Header 1
-## Header 2
-### Header 3
+**My positive qualities:**
+* Zeal;
+* Ability to bring everything to the ebd;
+* Ability to find a way out of any situations.
 
-- Bulleted
-- List
+Skills
+==============
+* HTML5
 
-1. Numbered
-2. List
+* CSS3
 
-**Bold** and _Italic_ and `Code` text
+* Git/GitHub
 
-[Link](url) and ![Image](src)
-```
+* VSCodium
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Code Example
+==============
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vikagloba/rsschool-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Education
+=========
+* **Belarusian State Economic University**
 
-### Support or Contact
+* **RS School** (in progress)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Languages
+==========
+* **English** - A2 (B1 in progress)
+
+* **Russian** - native speaker
+
