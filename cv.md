@@ -1,4 +1,4 @@
-#Viktoria Globa
+Viktoria Globa
 ================
-##My contact info:
+My contact info:
 -----------------
