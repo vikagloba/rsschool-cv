@@ -33,3 +33,15 @@ Code Example
 ==============
 
 
+Education
+=========
+* **Belarusian State Economic University**
+
+* **RS School** (in progress)
+
+Languages
+==========
+* **English** - A2 (B1 in progress)
+
+* **Russian** - native speaker
+
