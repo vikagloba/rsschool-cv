@@ -3,8 +3,11 @@ Viktoria Globa
 My contact info:
 -----------------
 **Phone:** +375445146466
+
 **E-mail:** sakkyni@rambler.ru
+
 **Telegram:** @Vika_Globa
+
 **GitHub:** Vika Globa
 
 About Me
